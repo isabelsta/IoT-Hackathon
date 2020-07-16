@@ -1,0 +1,25 @@
+Q n R - Quick and Reactive. IoT Hackaton. Gruppe 1
+
+Tommy ist Student an der Hochschule Reutlingen. Er studiert Digital Business Engineering im ersten Semester. 
+An der Hochschule werden für jedes angebotene Fach verschiedene Lernservices verwendet. 
+Es gibt Lernservices für die Bereitstellung der Unterlagen, für die Zusammenarbeit und auch für den Schriftverkehr. B
+eispiele sind Services wie Microsoft Teams, Trello, Google Drive und weitere. Für jeden Lernservice ist ein Benutzerkonto angelegt. 
+Das bedeutet, dass es viele Passwörter gibt, die Tommy sich merken muss. 
+Ein weiteres Problem, das Tommy hat, ist, dass für jedes Fach beispielsweise ein Trelloboard für die Zusammenarbeit existiert. 
+Tommy muss sich also auch noch verschiedene Links merken bzw. diese abspeichern. 
+Bis die notwendigen Services alle gefunden und geöffnet werden, vergeht viel Zeit bis zur eigentlichen Nutzung. 
+Darüber hinaus benötigt jedes Modul eine eigene Kombination an Services. 
+Während Projekt X Services A B C benötigt, benötigt Projekt Y Services A B E.
+Tommy ist ein motivierter Student, der gerne ordentlich arbeitet und einen Überblick über seine Unterlagen hat. 
+Er möchte schnell auf diese zugreifen können, um sauber zu arbeiten und sich mit seinen Mitstudenten schnell austauschen zu können. 
+Er ist verzweifelt, weil er sich selbst nicht gerecht werden kann. 
+Mit Q n R - Quick and Reactive wird Tommy jedoch sein Studentenleben erleichtert. 
+Es werden die gewünschten Links der Anwendungen herausgesucht und zwischengespeichert. 
+Der Link ist dabei so generisch wie möglich. Es wird dabei auf den überliegenden Ordner verlinkt. 
+Mit Hilfe von Link Bridging werden alle Links auf einen Link reduziert und in einem einzigen QR-Code gespeichert. 
+Tommy hat für jede Vorlesung ein T-Shirt mit dem passenden QR-Code.
+
+Setzt er sich vor seine Laptopkamera, erkennt diese automatisch den QR-Code und öffnet alle Services, die Tommy benötigt. 
+Tommy ist nun sehr glücklich. Er hat eine Übersicht über alle Services und kann endlich wieder so ordentlich arbeiten wie er es mag. 
+Seine Prüfungen werden sehr gut. 
+In der Zukunft kann Tommy diese Tshrits und Tassen auch am Herman Hollerith Zentrum nutzen, um sich direkt mit den Lernservices zu verbinden.
